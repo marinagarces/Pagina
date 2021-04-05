@@ -1,0 +1,20 @@
+body {
+	font-family: Arial;
+	background-attachment: fixed;
+
+}
+.container {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.container div {
+	box-sizing: border-box;
+	min-width: 150px;
+	padding: 20px;
+}
+.c1 {
+	color: black;
+	background-color: #E6EBE0;
+}
